@@ -1,5 +1,4 @@
 
-Daily Java DSA practice with structured problem-solving, clean code, and interview-focused explanations.
 # Java DSA Journey 🚀
 
 This repository documents my structured daily practice of Data Structures and Algorithms using Java.
